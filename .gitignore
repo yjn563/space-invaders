@@ -1,0 +1,20 @@
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Java
+*.class
+out/
+
+# Build directories
+build/
+target/
+
+# Logs
+*.log
+
+# Tests
+test/
